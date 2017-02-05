@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-## Data is Beautiful
+# Data is Beautiful
 
 You can use the [editor on GitHub](https://github.com/midnightsun183/midnightsun183.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
