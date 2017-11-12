@@ -1,5 +1,5 @@
 ## FIVE Dollar Insults
-# ata is BeautifulD
+# Huring insults. $5 worth at a time.
 
 You can use the [editor on GitHub](https://github.com/midnightsun183/midnightsun183.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
