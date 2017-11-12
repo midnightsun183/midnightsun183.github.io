@@ -2,4 +2,6 @@ theme: jekyll-theme-slate
 title: Five Dollar Insults
 description: Huring insults. $5 worth at a time.
 ---
-permalink: /blog/:year/:month/:day/:title
+//permalink: /blog/:year/:month/:day/:title
+ plugins:
+    - jekyll-seo-tag
